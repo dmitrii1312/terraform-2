@@ -13,7 +13,7 @@ resource "yandex_compute_instance" "vm" {
   }
   boot_disk {
     initialize_params {
-      image_id = "fd888ru6t6codt07lbom"
+      image_id = "fd8kcqkhjtt5igo42l14"
     }
   }
   network_interface {
